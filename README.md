@@ -1,3 +1,5 @@
+<img width="100%" alt="Sanket Gawande banner" src="https://github.com/user-attachments/assets/f1cfb6ee-287e-4299-8fbe-9dd6b4a3e9f1" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+Hey+there!%2C+I+am+Sanket+Gawande;Full-stack+JavaScript+%2F+TypeScript+developer" alt="Sanket Gawande" />
