@@ -2,15 +2,27 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+Hey+there!%2C+I+am+Sanket+Gawande;Full-stack+JavaScript+%2F+TypeScript+developer" alt="Sanket Gawande" />
 
-<p>
-⌈ <a href="https://sanket.vercel.app">Portfolio</a> ⌋
-</p>
-
 <p>⌈ I am a <b>full-stack web developer</b> from <b>Yavatmal, India</b> — building fast, accessible things with <b>TypeScript</b> ⌋</p>
 
-<img src="https://komarev.com/ghpvc/?username=Sanket-Gawande&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<a href="https://sanket.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sanket.vercel.app-FF5722?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=Sanket-Gawande&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
+
+---
+
+## 👨‍💻 About me
+
+I've been building for the web with JavaScript since 2021 — these days mostly **TypeScript**, with **React / Next.js** on the front and **Node / Express** behind it. Ninety-odd repos in, small sharp tools are still my favourite thing to ship.
+
+| | |
+|:--|:--|
+| 🔭 **Building now** | [**webp-utility**](https://github.com/Sanket-Gawande/webp-utility) — fast, offline WebP compression for desktop |
+| 🧩 **Recently shipped** | [medscribe](https://github.com/Sanket-Gawande/medscribe) · [custom-date-picker](https://github.com/Sanket-Gawande/custom-date-picker) · [transfer-files-over-socket](https://github.com/Sanket-Gawande/transfer-files-over-socket) |
+| 🌱 **Exploring** | React Native, Flutter, and real-time systems over WebSockets |
+| 💬 **Ask me about** | React performance, Node APIs, TypeScript ergonomics, Vercel deploys |
+| 📫 **Reach me** | [sanket@rsquarewebstudio.com](mailto:sanket@rsquarewebstudio.com) |
+| ⚡ **Fun fact** | I ship side projects faster than I name them |
 
 ---
 
@@ -40,36 +52,19 @@
 
 ---
 
-## 📖 About
-
-```ts
-const sanket = {
-  role: "Full-stack developer",
-  location: "Yavatmal, Maharashtra, India",
-  code: ["TypeScript", "JavaScript", "Dart", "C++"],
-  frontend: ["React", "Next.js", "Tailwind CSS", "React Native"],
-  backend: ["Node.js", "Express", "WebSockets", "MongoDB", "PostgreSQL"],
-  currentlyBuilding: "webp-utility — fast, offline WebP compression for desktop",
-  funFact: "I ship side projects faster than I name them",
-};
-```
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub at a glance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanket-Gawande&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Gawande&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanket-Gawande&theme=github_dark" alt="Profile details" />
 
-<br/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanket-Gawande&theme=github_dark" alt="Repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanket-Gawande&theme=github_dark" alt="Most commit language" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanket-Gawande&theme=github_dark" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanket-Gawande&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 
 <img src="https://streak-stats.demolab.com?user=Sanket-Gawande&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanket-Gawande&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
